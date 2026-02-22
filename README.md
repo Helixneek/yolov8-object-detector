@@ -18,7 +18,7 @@ The system is divided into three modules:
 
 ## Technical Specifications
 * **Languages & Libraries:** Python, PyTorch, OpenCV, Ultralytics (YOLOv8)
-* **Hardware Profile:** Optimized and tested on an Nvidia GTX 1660 Ti (6GB VRAM)
+* **Hardware Profile:** Tested on my Nvidia GTX 1660 Ti (6GB VRAM)
 * **Performance Metric:** Achieved 98% mAP (Mean Average Precision) on the validation set.
 
 ## Installation and Setup
